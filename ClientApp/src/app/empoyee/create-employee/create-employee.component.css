@@ -1,0 +1,9 @@
+.haserror{
+    color: red;
+}
+form-control.haserror:focus{
+    border-color: red;
+}
+/* .form-control:focus {
+    border-color: red;
+} */
